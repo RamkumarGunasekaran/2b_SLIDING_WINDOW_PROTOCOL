@@ -1,3 +1,5 @@
+## NAME: RAMKUMAR G
+## REG NO: 212223220084
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
 To write a python program for Implementation of sliding Window Protocol
